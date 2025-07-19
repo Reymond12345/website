@@ -1,0 +1,163 @@
+@font-face {
+    font-family: 'Roboto-BlackItalic';
+    src: url(Fonts/Roboto-BlackItalic.ttf);
+}
+
+@font-face {
+    font-family: 'Roboto-MediumItalic';
+    src: url(Fonts/Roboto-MediumItalic.ttf)
+}
+
+@font-face {
+    font-family: 'Roboto-Light';
+    src: url(Fonts/Roboto-Light.ttf)
+}
+
+@font-face {
+    font-family: 'Roboto-Regular';
+    src: url(Fonts/Robot-Regular.tff)
+}
+
+@font-face{
+    font-family: 'Roboto-Medium';
+    src: url(Fonts/Roboto-Medium.ttf)
+}
+
+.box {
+  position: fixed;
+  color: white;
+  width: 700px;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.line {
+    height: 5px;
+}
+
+.ctext1 {
+  color: white;
+
+}
+
+.title {
+  color: white;
+  font-family: 'Roboto-BlackItalic';
+  font-weight: 900;
+  font-size: 100px;
+  text-align: justify;
+}
+
+.logo{
+    position: fixed;
+}
+
+.pgmargin {
+    margin-left: 200px;
+    margin-right:200px;
+}
+
+#graySect {
+    position: fixed;
+    width: 100%;
+    height: 650px;
+    background-color:#333333;
+    top: 650px;
+    left: 0px;
+}
+
+#sideTitle {
+    position: fixed;
+    color: white;
+    font-family: 'Roboto-MediumItalic';
+    font-weight: 400;
+    font-size: 30px;
+    top: 10px;
+    left: 250px;
+}
+
+#logo1 {
+  height: 30px;
+  width: auto;
+  top: 40px;
+}
+
+#logo2{
+    height: 30px;
+    width: auto;
+    top: 475px;
+}
+
+#logo3{
+    height: 30px;
+    width: auto;
+    top: 475px;
+    left: 250px;
+}
+
+#logo4{
+    height: 30px;
+    width: auto;
+    top: 475px;
+    left: 300px;
+}
+
+#pic1{
+    height: 600px;
+    width: auto;
+    top: 100px;
+    left: 600px;
+}
+
+#boxTit{
+    position: fixed;
+    top: 120px;
+    left: 200px;
+    color:white;
+}
+
+#text1 {
+    font-family: 'Roboto-Light';
+    font-weight: 550;
+    font-size: 30px;
+    color: grey;
+    text-align: left;
+}
+
+#text2 {
+  font-family: 'Roboto-Medium';
+  font-weight: 400;
+  font-size: 35px;
+  text-align: left;
+}
+
+#text3 {
+    font-family:'Times New Roman';
+    font-weight: 100;
+    font-size: 16px;
+}
+
+#box1 {
+    top: 180px;
+    left: 1150px;
+}
+
+#box2 {
+  top: 230px;
+  left: 1150px;
+}
+
+#box3 {
+    top: 360px;
+    left: 1150px;
+}
+
+#line1{
+    position: fixed;
+    width: 400px;
+    background-color: white;
+    top: 450px;
+}
+
+
+
